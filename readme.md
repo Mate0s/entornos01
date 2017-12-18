@@ -9,4 +9,4 @@ Repositorio de ejemplo para entornos
 
 puedo dar en formato *cursivo* y en **cursiva**
 
-y poner [enlaces][www.google.es]
+y poner [enlaces][https://www.google.es]
